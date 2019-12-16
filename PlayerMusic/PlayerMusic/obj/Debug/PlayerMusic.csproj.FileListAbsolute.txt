@@ -1,0 +1,28 @@
+G:\EC\4° SEMESTRE\Linguagem de Programação I\PlayerMusic\PlayerMusic\bin\Debug\PlayerMusic.exe.config
+G:\EC\4° SEMESTRE\Linguagem de Programação I\PlayerMusic\PlayerMusic\bin\Debug\PlayerMusic.exe
+G:\EC\4° SEMESTRE\Linguagem de Programação I\PlayerMusic\PlayerMusic\bin\Debug\PlayerMusic.pdb
+G:\EC\4° SEMESTRE\Linguagem de Programação I\PlayerMusic\PlayerMusic\bin\Debug\Interop.WMPLib.dll
+G:\EC\4° SEMESTRE\Linguagem de Programação I\PlayerMusic\PlayerMusic\bin\Debug\AxInterop.WMPLib.dll
+G:\EC\4° SEMESTRE\Linguagem de Programação I\PlayerMusic\PlayerMusic\obj\Debug\PlayerMusic.csprojAssemblyReference.cache
+G:\EC\4° SEMESTRE\Linguagem de Programação I\PlayerMusic\PlayerMusic\obj\Debug\Interop.WMPLib.dll
+G:\EC\4° SEMESTRE\Linguagem de Programação I\PlayerMusic\PlayerMusic\obj\Debug\AxInterop.WMPLib.dll
+G:\EC\4° SEMESTRE\Linguagem de Programação I\PlayerMusic\PlayerMusic\obj\Debug\PlayerMusic.csproj.ResolveComReference.cache
+G:\EC\4° SEMESTRE\Linguagem de Programação I\PlayerMusic\PlayerMusic\obj\Debug\PlayerMusic.Form1.resources
+G:\EC\4° SEMESTRE\Linguagem de Programação I\PlayerMusic\PlayerMusic\obj\Debug\PlayerMusic.Properties.Resources.resources
+G:\EC\4° SEMESTRE\Linguagem de Programação I\PlayerMusic\PlayerMusic\obj\Debug\PlayerMusic.csproj.GenerateResource.cache
+G:\EC\4° SEMESTRE\Linguagem de Programação I\PlayerMusic\PlayerMusic\obj\Debug\PlayerMusic.exe
+G:\EC\4° SEMESTRE\Linguagem de Programação I\PlayerMusic\PlayerMusic\obj\Debug\PlayerMusic.pdb
+C:\Users\laris\OneDrive\Área de Trabalho\PlayerMusic\PlayerMusic\PlayerMusic\bin\Debug\PlayerMusic.exe.config
+C:\Users\laris\OneDrive\Área de Trabalho\PlayerMusic\PlayerMusic\PlayerMusic\bin\Debug\PlayerMusic.exe
+C:\Users\laris\OneDrive\Área de Trabalho\PlayerMusic\PlayerMusic\PlayerMusic\bin\Debug\PlayerMusic.pdb
+C:\Users\laris\OneDrive\Área de Trabalho\PlayerMusic\PlayerMusic\PlayerMusic\bin\Debug\Interop.WMPLib.dll
+C:\Users\laris\OneDrive\Área de Trabalho\PlayerMusic\PlayerMusic\PlayerMusic\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\laris\OneDrive\Área de Trabalho\PlayerMusic\PlayerMusic\PlayerMusic\obj\Debug\PlayerMusic.csprojAssemblyReference.cache
+C:\Users\laris\OneDrive\Área de Trabalho\PlayerMusic\PlayerMusic\PlayerMusic\obj\Debug\Interop.WMPLib.dll
+C:\Users\laris\OneDrive\Área de Trabalho\PlayerMusic\PlayerMusic\PlayerMusic\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\laris\OneDrive\Área de Trabalho\PlayerMusic\PlayerMusic\PlayerMusic\obj\Debug\PlayerMusic.csproj.ResolveComReference.cache
+C:\Users\laris\OneDrive\Área de Trabalho\PlayerMusic\PlayerMusic\PlayerMusic\obj\Debug\PlayerMusic.Form1.resources
+C:\Users\laris\OneDrive\Área de Trabalho\PlayerMusic\PlayerMusic\PlayerMusic\obj\Debug\PlayerMusic.Properties.Resources.resources
+C:\Users\laris\OneDrive\Área de Trabalho\PlayerMusic\PlayerMusic\PlayerMusic\obj\Debug\PlayerMusic.csproj.GenerateResource.cache
+C:\Users\laris\OneDrive\Área de Trabalho\PlayerMusic\PlayerMusic\PlayerMusic\obj\Debug\PlayerMusic.exe
+C:\Users\laris\OneDrive\Área de Trabalho\PlayerMusic\PlayerMusic\PlayerMusic\obj\Debug\PlayerMusic.pdb
